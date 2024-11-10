@@ -52,7 +52,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [JusticeShultz/MathX](https://github.com/JusticeShultz/MathX), Detailed custom math library programmed in C++ by Justice Shultz that includes demos that uses raylib.
 - [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI), Just a simple UI using raylib (Can be used as library), Written in C#.
 - [QuantScientist/TorchRayLib](https://github.com/QuantScientist/TorchRayLib), CMake based integration of the RayLib library with the Libtorch C++ Deep Learning Library.
-- [c-krit/lowel](https://github.com/c-krit/lowel), 2D map loading / saving system for raylib projects.
+- [c-krit/ferox](https://github.com/c-krit/ferox), An open-source, lightweight 2D physics engine written in C. Includes demos made with raylib.
 - [nbdy/ruicf](https://github.com/nbdy/ruicf), C++ raylib ui controls framework.
 - [JeffM2501/RLGameGui](https://github.com/JeffM2501/RLGameGui), Resolution independent gui for raylib, Written in C++!
 - [I3uckwheat/CHUCK](https://github.com/I3uckwheat/CHUCK), Allows tiled maps to be used with raylib with little trouble.
@@ -72,7 +72,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [hbiblia/gtk-raylib](https://github.com/hbiblia/gtk-raylib), GTK integration with raylib.
 - [QuantScientist/ncnnRay](https://github.com/QuantScientist/ncnnRay), ncnnRay++ is a CMake based integration of raylib and the very popular Tencent ncnn Deep Learning library. ncnn is written in C++ and designed (but not only) for edge computing devices. The project depends on the Vulkan SDK (Vulakn is Khronos' API for Graphics and Compute on GPUs).
 - [impzero/gastar](https://github.com/impzero/gastar), Algorithm implemented in Go visualized using raylib.
-- [c-krit/ichor](https://github.com/c-krit/ichor), PhysicsFS API wrapper for raylib.
 - [thyliverman/Paper](https://github.com/thyliverman/Paper), C++ rewrite of PaperSDL, dedicated to making raylib just a little easier to work with.
 - [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS), Modified version of AliElSaleh's Animator-For-Raylib made to work with the raylib-cs nuget package, Written in C#.
 - [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib), C/C++ Animator lib.
@@ -265,7 +264,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [edomin/Raygui_Helloworld](https://github.com/edomin/Raygui_Helloworld), Example of using Raygui library with tigr graphics library.
 - [JohnLins/SphereDensity](https://github.com/JohnLins/SphereDensity), Example of 3D rendered sphere increasing in "density" by increasing the rings and slices.
 - [badlydrawnrod/evaluate-raylib](https://github.com/badlydrawnrod/evaluate-raylib), Few short and cross-platform raylib demos. Known to work on Windows, Raspberry Pi 400 (desktop + native), Web (emscripten).
-- [c-krit/kraber](https://github.com/c-krit/kraber), Cool ideas and experiments with raylib, Written in C.
 - [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Iterative melancholy written in Factor.
 - [jmorel33/RayLib-Video-Modes](https://github.com/jmorel33/RayLib-Video-Modes), Example of getting list of monitor's video modes from GLFW3 with raylib!
 - [TheCatOverlord/Raylib-Joystick](https://github.com/TheCatOverlord/Raylib-Joystick), Example implementing Joystick input for raylib using `<linux/joystick.h>`.
