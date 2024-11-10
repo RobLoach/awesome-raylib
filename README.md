@@ -309,6 +309,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [buribalazs/raylib-rs-play_sound_multi](https://github.com/buribalazs/raylib-rs-play_sound_multi), Example to demonstrate a crash on windows 10 written in Rust.
 - [teh-cmc/rts](https://github.com/teh-cmc/rts), Building an RTS the old way, with Rust, raylib & Emscripten.
 - [jestarray/raylib_ffi_bug](https://github.com/jestarray/raylib_ffi_bug), Incorrect FFI call which turning bool to a random number, Written in Rust.
+- [GuvaCode/Ray4LazExamples](https://github.com/GuvaCode/Ray4LazExample), Examples of projects rewritten from different languages into Pascal
 
 ### Templates
 
