@@ -352,6 +352,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [ruscito/raylib_template](https://github.com/ruscito/raylib_template), raylib template for MacOS.
 - [waruqi/raylib-scaffold](https://github.com/waruqi/raylib-scaffold), Minimal raylib project template that uses XMake.
 - [GoldenbergDaniel/RayTemplateC](https://github.com/GoldenbergDaniel/RayTemplateC), Template for the raylib library in C.
+- [Mercotui/conan-raylib-examples](https://github.com/Mercotui/conan-raylib-examples), Using raylib package from conan-center, includes crosscompiling to web and android.
 
 ### Articles
 
