@@ -431,6 +431,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib on 32x32 LED](https://www.youtube.com/watch?v=u1BzNAJORN8)
 - [Procedural Island Gen and A* Pathfinding Demo](https://www.youtube.com/watch?v=vpzFoRA6Y3Q)
 - [Install RayLib in LazarusIDE](https://www.youtube.com/watch?v=lAFWOgDahtk)
+- [Installing Ray4Laz Raylib for Lazarus on Mac M1](https://www.youtube.com/watch?v=Gt7yTJjbcmc)
+- [How to use Raylib in Lazarus Free Pascal with Ray4Laz on Mac M1](https://www.youtube.com/watch?v=h2-GrChtwMY) 
 - [Raylib c'est bien !](https://www.youtube.com/watch?v=aaIBSuymo0Y) (French)
 - [Windows 3D Maze Screensaver in C++ with raylib](https://www.youtube.com/watch?v=HuyNTB689yQ)
 - [QIDV12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib](https://www.youtube.com/watch?v=tKq9mpEBQFg) (Spanish)
