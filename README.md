@@ -160,6 +160,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [erikerlandson/ray-ubi](https://github.com/erikerlandson/ray-ubi), Minimalist Ray distributed computing container image, based on Red Hat UBI.
 - [Demizdor/particle_editor](https://github.com/Demizdor/particle_editor), Experimental particle editor!
 - [gtrxAC/rlwm](https://github.com/gtrxAC/rlwm), Fake operating system/window manager.
+- [alexlnkp/Mapper](https://github.com/alexlnkp/Mapper), 3D level editor made with raylib.
 
 ### Deprecated/Removed/Unknown bindings
 
